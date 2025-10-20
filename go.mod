@@ -1,4 +1,4 @@
-module github.com/alvidias/usul/request
+module github.com/alvidias/request
 
 go 1.24.3
 
